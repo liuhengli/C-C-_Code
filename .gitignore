@@ -1,2 +1,5 @@
 LeetCode/.vscode
 LeetCode/NSum_Collection/*.exe
+.vscode/*.json
+.gitignore
+.vscode/settings.json
